@@ -1,12 +1,12 @@
-## Final Submission Flutter Expert
-![GitHub stars](https://img.shields.io/github/stars/radensaleh/dicoding-flutter-expert?style=social)
-![GitHub forks](https://img.shields.io/github/forks/radensaleh/dicoding-flutter-expert?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/radensaleh/dicoding-flutter-expert?style=social)
+## Ditonton App
+![GitHub stars](https://img.shields.io/github/stars/radensaleh/Ditonton-App?style=social)
+![GitHub forks](https://img.shields.io/github/forks/radensaleh/Ditonton-App?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/radensaleh/Ditonton-App?style=social)
 
 [![Codemagic build status](https://api.codemagic.io/apps/637db30d143bfdef85ed5ff6/637db30d143bfdef85ed5ff5/status_badge.svg)](https://codemagic.io/apps/637db30d143bfdef85ed5ff6/637db30d143bfdef85ed5ff5/latest_build)
-[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/radensaleh/dicoding-flutter-expert/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/radensaleh/Ditonton-App/blob/master/LICENSE)
 [![platform](https://img.shields.io/badge/platform-Flutter-blue.svg)](https://flutter.dev/)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/radensaleh/dicoding-flutter-expert)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/radensaleh/Ditonton-App)
 
 ## Features
 *  Movies (Now Playing, Popular, Top Rated)
@@ -25,7 +25,7 @@
 This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
 This project uses **BLoC** (business logic component) to separate the business logic with UI itself.
 It's recommended to do self-study about it before jumping into the project [here](https://bloclibrary.dev/).
-And also on this project uses **Modularization** approach to separate each feature ([core](https://github.com/radensaleh/dicoding-flutter-expert/tree/final-submission/modules/core), [feature_about](https://github.com/radensaleh/dicoding-flutter-expert/tree/final-submission/modules/feature_about), [feature_movie](https://github.com/radensaleh/dicoding-flutter-expert/tree/final-submission/modules/feature_movie), [feature_tv](https://github.com/radensaleh/dicoding-flutter-expert/tree/final-submission/modules/feature_tv) modules).
+And also on this project uses **Modularization** approach to separate each feature ([core](https://github.com/radensaleh/Ditonton-App/tree/master/modules/core), [feature_about](https://github.com/radensaleh/Ditonton-App/tree/master/modules/feature_about), [feature_movie](https://github.com/radensaleh/Ditonton-App/tree/master/modules/feature_movie), [feature_tv](https://github.com/radensaleh/Ditonton-App/tree/master/modules/feature_tv) modules).
 
 ## Modularization Structure 🔥
 
