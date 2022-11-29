@@ -1,0 +1,27 @@
+{
+    "_id": "52589f06760ee34661632411",
+    "air_date": "2019-04-22",
+    "episodes": [
+        {
+            "air_date": "2019-04-22",
+            "episode_number": 1,
+            "id": 757316,
+            "name": "Episode 1",
+            "overview": "\"Queen of the South\" Teresa is now living in hiding as María in Italy, but her new life is upended when her daughter Sofía is kidnapped by her enemies.",
+            "production_code": "",
+            "runtime": 42,
+            "season_number": 2,
+            "show_id": 31586,
+            "still_path": "/qdVhhNBUdkL5Qmv8EdhqQPTS0ED.jpg",
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "crew": [],
+            "guest_stars": []
+        }
+    ],
+    "name": "Season 2",
+    "overview": "After living in hiding for nine years, Teresa is forced to confront her past and return to Mexico in order to save her kidnapped daughter, Sofía.",
+    "id": 43099,
+    "poster_path": "/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg",
+    "season_number": 2
+}
